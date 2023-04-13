@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Home",
+    "url": "www.site.com"
+  },
+  {
+    "id": 2,
+    "text": "About",
+    "url": "www.site.com/about"
+  },
+  {
+    "id": 3,
+    "text": "Services",
+    "url": "www.site.com/services"
+  }
+]
